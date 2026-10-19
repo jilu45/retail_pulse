@@ -1,0 +1,3 @@
+Model,ROC_AUC
+LogisticRegression,1.0
+RandomForest,1.0

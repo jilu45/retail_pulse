@@ -1,0 +1,5 @@
+Segment,Customers,AvgRecency,AvgFrequency,AvgMonetary,RevenueShare%
+Active,1459,230.07,5.06,1948.5,16.4
+At-risk,1973,394.95,1.38,317.08,3.6
+High-value,1196,27.71,19.28,10731.16,73.9
+One-time buyer,1250,28.3,3.05,857.49,6.2
